@@ -6,6 +6,4 @@ Beyond the coexistence of an increase in the incidence and prevalence of obesity
 Based on the evidence described above, this project aims to determine the possible relationship between body weight and urinary pH, as well as between BMI and urinary pH.
 
 ## 📄 Project Report
-## Report Preview
-![MediPee Report - Page 1](./report_images/page1.png)
-![MediPee Report - Page 2](./report_images/page2.png)
+[📄 View MediPee Report](./MediPee_report.pdf)
